@@ -1,0 +1,201 @@
+body{
+    background-color: #9fbc9f;
+   
+}
+
+*{    
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    scroll-behavior: smooth;
+}
+
+.menu{
+    background-color: #598987;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start; 
+    letter-spacing: 4px;
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    padding-left: 18px;
+    font-size: 14pt;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+}
+
+
+.contact{
+    padding: 10px;
+    padding-left:820px ;
+    justify-content: space-between;
+    color: #598987;
+}
+
+.topbar{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+.topbar:hover{
+    background-color:#79ae79;
+    color: rgb(7, 86, 20);
+}
+
+.title1{
+    text-align: center;
+    font-size: 36pt;
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    color: white;
+    margin-top: 65px;
+}
+
+.title2{
+    text-align: center;
+    font-size: 36pt;
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    color: white;
+    margin-top: -150pt;
+}
+
+.title{
+    text-align: center;
+    font-size: 36pt;
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    color: white;
+}
+
+.myimage{
+    height: 300px;
+    margin-left: 200px;
+    border-radius: 50%;
+    border:4px  solid rgb(255, 255, 255);
+
+}
+
+.self{
+    position:relative;
+    left: 550px;
+    top: -300px;
+    background-color: #fff;
+    padding: 50px;
+    align-items: center;
+    font-size: 20pt;
+    border-radius: 5%;
+    width:800px;
+    height: 300px;
+    text-align: center;
+    background-color: #acd0bc;
+    color: white;
+     
+}
+
+
+
+.self2{
+    position:relative;
+    left: 200px;
+    top: -270px;
+    background-color: #fff;
+    padding: 40px;
+    align-items: center;
+    font-size: 20pt;
+    border-radius: 10%;
+    width:1150px;
+    height: 200px;
+    text-align: center;
+    background-color: #acd0bc;
+    color: white;
+}
+
+.selftitle{
+    text-align: left;
+    font-size: 30pt;
+    padding-left: 10px;
+    margin-top: -10px;
+    letter-spacing: 4px;
+}
+
+.selftalk{
+    text-align: justify;
+    margin-top: -20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 35pt;
+    font-size: 20pt;
+}
+
+.work{
+    margin: auto;
+    background-color: #acd0bc;
+    border-radius: 5%;
+    border:2px  solid white;
+    display: flex;
+    
+}
+
+.insidetable1{
+    text-align: left;
+    padding-left: 1cm;
+    font-size: 20pt;
+    line-height: 20pt;
+    color:white;
+}
+
+.workimg{
+    border-radius: 20%;
+    width: 200px;
+}
+
+.wktb{
+    font-size: 16pt;
+}
+
+.study{
+    margin: auto;
+    background-color: #acd0bc;
+    border-radius: 5%;
+    border:2px  solid white;
+    display: flex;
+}
+
+.studyimg{
+    border-radius: 20%;
+    width: 200px;
+}
+
+.pro{
+    margin: auto;
+    background-color: #acd0bc;
+    color: white;
+    border-radius: 5%;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 20pt;
+    padding-bottom: 10px;
+}
+
+.proimg{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.dance{
+    margin: auto;
+    background-color: #acd0bc;
+    color: white;
+    border-radius: 8%;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 20pt;
+    padding-bottom: 10px;
+}
+
