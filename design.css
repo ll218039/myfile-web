@@ -65,7 +65,7 @@ body{
     font-family: 微軟正黑體;
     font-weight: bold;
     color: white;
-    margin-top: -150pt;
+    margin-top: auto;
 }
 
 .title{
@@ -136,6 +136,25 @@ body{
     margin-right: 10px;
     line-height: 35pt;
     font-size: 20pt;
+}
+
+.programming{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #acd0bc;
+    width: 70%;
+    margin-top: -200px;
+    margin-bottom: 50px;
+    border-radius: 8%;
+    font-size: 20pt;
+    color: white;
+}
+
+.programming2{
+    font-size: 25pt;
 }
 
 .work{
